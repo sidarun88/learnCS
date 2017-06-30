@@ -1,3 +1,3 @@
 # Learn CS
 
-Self teaching Computer Science. Resources used from https://teachyourselfcs.com/
+Self teaching Computer Science. Offline Resources downloaded using https://teachyourselfcs.com/
